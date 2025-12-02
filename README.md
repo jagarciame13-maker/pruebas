@@ -1,2 +1,2 @@
-Este es un cambio de prueba para BUG-001 jjsvws
+Este es un cambio que valida la corrección del error
 # pruebas
